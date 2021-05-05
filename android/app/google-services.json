@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "347934679584",
+    "project_id": "chat-6e645",
+    "storage_bucket": "chat-6e645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347934679584:android:22172657b0042b57451245",
+        "android_client_info": {
+          "package_name": "com.wcrop.gazimsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347934679584-f9rv3ddb3abd0dt8lifl4pg5o2rrat4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfftRwpi5y4rnk5wyLt0mvJlqW2ibhR64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347934679584-f9rv3ddb3abd0dt8lifl4pg5o2rrat4f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "347934679584-qdlpr11s4pct3qjt827is51bbbsj0oh9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wcrop.gazimsg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
